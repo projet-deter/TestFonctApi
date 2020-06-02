@@ -1,0 +1,4 @@
+App\Entity\User:
+    stack_{1..50}:
+        name: <word()>
+        description: <sentence()>
